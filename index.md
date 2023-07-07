@@ -3,9 +3,7 @@ layout: index
 title: Syllabus
 
 index:
-    title: Foundations of Program Evaluation I
-    image: distribution.svg
-    subtitle: Regression analysis for the study of program impact.
+    image: ASU_WattsPublicService_3_Horiz_RGB_Black_600ppi.png
     
 info: 
  program_title: Program Evaluation and Data Analytics
