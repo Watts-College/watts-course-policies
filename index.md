@@ -46,12 +46,109 @@ Some students truly do not understand what plagiarism is, and therefore plagiari
 
 ### Accessibility Statement
 
-In compliance with the Rehabilitation Act of 1973, Section 504, and the Americans with Disabilities Act as amended (ADAAA) of 2008, professional disability specialists and support staff at [Student Accessibility and Inclusive Learning Services (SAILS)] (https://eoss.asu.edu/accessibility) facilitate a comprehensive range of academic support services and accommodations for qualified students with disabilities. SAILS staff coordinate transition from high schools and community colleges, in-service training for faculty and staff, resolution of accessibility issues, community outreach, and collaboration between all ASU campuses regarding disability policies, procedures, and accommodations.
+In compliance with the Rehabilitation Act of 1973, Section 504, and the Americans with Disabilities Act as amended (ADAAA) of 2008, professional disability specialists and support staff at [Student Accessibility and Inclusive Learning Services (SAILS)](https://eoss.asu.edu/accessibility) facilitate a comprehensive range of academic support services and accommodations for qualified students with disabilities. SAILS staff coordinate transition from high schools and community colleges, in-service training for faculty and staff, resolution of accessibility issues, community outreach, and collaboration between all ASU campuses regarding disability policies, procedures, and accommodations.
 
+### Establishing Eligibility for Disability Accommodations
 
+[Qualified students with disabilities may be eligible to receive academic support services and accommodations] (http://www.asu.edu/aad/manuals/ssm/ssm701-01.html). Eligibility is based on qualifying disability documentation and assessment of individual need. Students who believe they have a current and essential need for disability accommodations are [responsible for requesting accommodations and providing qualifying documentation](http://www.asu.edu/aad/manuals/ssm/ssm701-02.html) to Student Accessibility and Inclusive Learning Services (SAILS). 
 
+Every effort is made to provide reasonable accommodations for qualified students with disabilities. Prior to receiving any disability accommodations, verification of eligibility from SAILS is required. Once registered with SAILS, students with disabilities must meet with the instructor to discuss what reasonable accommodations they will need to be successful in this course. Students with disabilities that are known at the time this course begins are encouraged to make your request for accommodations at the beginning of the semester, either during office hours or by appointment. For disabilities that arise after the course has begun, students should meet with the instructor at the earliest possible time to arrange accommodations for their learning needs. Disability information is confidential.
 
+Qualified students who wish to request an accommodation for a disability should contact SAILS by going to [https://eoss.asu.edu/accessibility](https://eoss.asu.edu/accessibility), calling (480) 965-1234 or emailing [student.accessibility@asu.edu](student.accessibility@asu.edu). To speak with a specific office, please use the following information:
 
+**ASU Online and Downtown Phoenix Campus**
+University Center Building, Suite 160
+602-496-4321 (Voice)
+
+**Polytechnic Campus**
+480-727-1165 (Voice)
+
+**West Campus**
+University Center Building (UCB), Room 130
+602-543-8145 (Voice)
+
+**Tempe Campus**
+480-965-1234 (Voice)
+
+## Attendance and Accommodation of Excused Absences
+
+Attendance and participation in class activities is an essential part of the learning process; thus, students are expected to attend class regularly. Some absences are, however, unavoidable.
+
+**Excused absences** for classes will be given without penalty to the grade in the case of any of the following five reasons: (1) University-sanctioned and/or university-approved activities (e.g., artistic performances, participation in research conferences, intercollegiate athletic activities, student government, required class field trips, etc.); (2) religious holidays; (3) military work performed in the line-of-duty; (4) jury duty or similar governmental obligation (a copy of the summons or other official paperwork must be provided); and (5) illness, quarantine or self-isolation related to illness as documented by a health professional. When any of the first four reasons conflict with class meeting times, students are responsible for informing the professor of the reason for the absence at least one week in advance of the absence.
+
+Accommodations for those assisting in government declared disaster incidents will also be considered. The student should provide the course instructor with an accommodation request accompanied by an explanation of the disaster-related deployment and anticipated timeline for any such deployment.
+
+Excused absences do not relieve students from responsibility for any part of the course work required during the period of absence. Faculty will provide accommodations that may include participation in classes remotely, access to recordings of class activities, or make-up work.
+
+If there is a disagreement as to whether an absence should be accommodated, the instructor and student should contact the academic unit chair immediately for resolution.
+
+### Missed Classes Due to University-Sanctioned Activities
+
+In accordance with ACD 304–02, students who participate in university-sanctioned activities that require classes to be missed will be given opportunities to make up examinations and other graded in-class work without penalty, if possible.  However, absence from class or examinations due to university-sanctioned activities does not relieve students from responsibility for any part of the course work required during the period of the absence. Thus, if making-up with work is not possible, then the student may receive an incomplete contingent upon making arrangements with the professor to complete the final coursework and earn a final grade.
+
+### Accommodation for Religious Practices
+
+In accordance with ACD 304–04, students should notify faculty in advance of the need to be absent from class due to religious observances. The instructor will provide reasonable accommodation of individual religious practices by adjusting the academic environment, without penalty, to provide flexibility. Absence from class or examinations due to religious observance, however, does not relieve students from responsibility for any part of the course work required during the period of the absence. A list can be found here [https://eoss.asu.edu/cora/holidays](https://eoss.asu.edu/cora/holidays).
+
+Accommodation for Line of Duty
+In accordance with SSM 201-18:
+1. Line-of-Duty Missed Assignment Make-Up Policy (incomplete or withdrawal not required).
+
+Students who serve as active duty or reserve military personnel who miss classes, graded assignments, or examinations because of required work performed in the line-of-duty, and this absence does not require the use of the activation for military duty withdrawal policy, shall be given opportunities to make-up examinations and other graded work. However, absence from class or examinations due to line-of-duty activities does not relieve students from responsibility for any part of the course work required during the period of the absence. In addition, because of the potential for a dramatic increase in family-related responsibilities during a deployed spouse's absence, student spouses who are legally responsible for minor dependents should be afforded the same accommodations to make-up missed work when their spouse is deployed. Under this policy, when there is a question as to the validity of the line-of-duty event, Pat Tillman Veterans Center shall determine whether a particular event qualifies as a military line-of-duty activity.
+
+2. Activation for Military Duty (incomplete or withdrawal required).
+
+A student who is a member of the National Guard, Reserve, or other U.S. Armed Forces branch or is the spouse, as described in the Purpose section of this policy, and is unable to complete classes because of military activation, may request complete withdrawal or course withdrawals, incompletes, or grades, depending on the timing of the activation and the individual student’s needs. Absences resulting from military activation will not adversely affect a student’s catalog year.
+
+To receive consideration under the military activation policy, a student should complete a Military Activation Form and return the completed form, along with a copy of the military activation order, to the Pat Tillman Veterans Center. The Pat Tillman Veterans Center staff will coordinate the processing of the form for the student, including verification of orders, counseling on available options,  referrals to academic departments, referrals or notification to offices regarding potential refunds, and initiation of processing administrative withdrawals or incomplete grades.
+
+### Accommodation for Illness
+
+Absences for illness, quarantine, or self-isolation related to illness should be documented by a health professional and communicated to the instructor as soon as possible.
+
+## Grade Appeals
+
+Per the [University Policy for Student Appeal Procedures on Grades](https://catalog.asu.edu/appeal), grade disputes must first be addressed by discussing the situation with the instructor. If the dispute is not resolved with the instructor, the student may appeal to the School Director’s official designee, which may include the School’s Academic Grievance Officer or the Associate Director of the School. If the dispute is not resolved at the School level, the student may appeal to the Dean’s official designee. The appeal process is final at the College level.
+
+# Conduct
+
+## Faculty as Mandated Reporters
+
+Course faculty are mandated reporters; therefore, anything communicated in class or in a course assignment or assessment that raises concern about safety and/or well-being of a student or another individual or group may be cause for intervention and communication with other university staff and community officials.
+
+## Health Insurance Portability and Accountability Act (HIPAA) Policy Statement
+
+Should you be participating in course work involving health information of clients, you are subject to HIPAA regulations that protect client health information. To comply with these regulations, any client information you present from your internship or work must be de-identified. Any information that would allow someone to determine the client’s identity must be changed or eliminated.  This includes obvious information like names and birthdates. Other information so unique to the person that it will allow for identification may include such variables as diagnosis, race/ethnicity, gender, sexual orientation, and place of residence.
+
+## Professional Conduct and Civility in the Classroom
+
+Professional conduct is expected in the classroom setting. That is, students should arrive on time for class, be prepared to participate in the class discussion, and show respect for one another’s opinions. College courses bring together a group of diverse individuals with various backgrounds. Students are influenced and shaped by such factors as ethnicity, gender, sex, physical abilities, religious and political beliefs, national origins, and sexual orientations, among others. We expect to learn from each other in an atmosphere of positive engagement and mutual respect. This course may deal with complex and controversial issues that often feel challenging and uncomfortable. We will be exposed to diverse ideas and opinions, and sometimes we will not agree with the ideas expressed by others. Nevertheless, students must engage with one another with civility, respect, and professionalism. Students are asked to carefully evaluate their own thinking about violence against women, including their biases, work experiences, and understandings.
+
+## Prohibition of Commercial Note Taking Services
+
+In accordance with [ACD 304-06 Commercial Note Taking Services](http://www.asu.edu/aad/manuals/acd/acd304-06.html), written permission must be secured from the official instructor of the class in order to sell the instructor's oral communication in the form of notes. Notes must have the notetaker's name as well as the instructor's name, the course number, and the date.
+
+## Student Conduct
+
+Required behavior standards are listed in the [Student Code of Conduct and Student Disciplinary Procedures, Computer, Internet, and Electronic Communications policy](http://www.asu.edu/aad/manuals/ssm/ssm104-01.html), and outlined by the [Office of Student Rights & Responsibilities](https://students.asu.edu/srr). In addition, 
+
+* [Students are entitled to receive instruction free from interference](http://www.asu.edu/aad/manuals/ssm/ssm104-02.html) by other members of the class. An instructor may withdraw a student from the course when the student's behavior disrupts the educational process per [Instructor Withdrawal of a Student for Disruptive Classroom Behavior](http://www.asu.edu/aad/manuals/usi/usi201-10.html).
+
+* Although you are welcome to disagree with the professor or your classmates, everyone is expected to participate respectfully. Students who engage in personal attacks; who use rude, insulting, or disrespectful language; or who engage in other disruptive or threatening behavior may face disciplinary action. Indeed, an instructor may withdraw a student from a course with a mark of ‘W’ or ‘E’ when the student’s behavior disrupts the educational process. In addition, students may face formal disciplinary action in the Office of Student Judicial Affairs. For more details about the University’s Student Code of Conduct, please visit the following link and read the Arizona Board of Regents Policy Manual Sections 5-301 to 5-404, the terms of which are hereby incorporated by reference into this syllabus:  [https://www.azregents.edu/board-committees/policy-manual](https://www.azregents.edu/board-committees/policy-manual) 
+
+* Appropriate online behavior (also known as netiquette) is defined by the instructor and includes keeping course discussion posts focused on the assigned topics. Students must maintain a cordial atmosphere and use tact in expressing differences of opinion. Inappropriate discussion board posts may be deleted by the instructor.
+
+The Office of Student Rights and Responsibilities accepts [incident reports](https://students.asu.edu/srr/report) from students, faculty, staff, or other persons who believe that a student or a student organization may have violated the Student Code of Conduct.
+
+## Title IX: Sex Discrimination, Sexual Harassment, and Sexual Abuse
+
+Title IX is a federal law that provides that no person be excluded on the basis of sex from participation in, be denied benefits of, or be subjected to discrimination under any education program or activity.  Both Title IX and university policy make clear that sexual violence and harassment based on sex is prohibited.  An individual who believes they have been subjected to sexual violence or harassed on the basis of sex can seek support, including counseling and academic support, from the university.  If you or someone you know has been harassed on the basis of sex or sexually assaulted, you can find information and resources at [https://sexualviolenceprevention.asu.edu/faqs](https://sexualviolenceprevention.asu.edu/faqs). 
+ 
+As a mandated reporter, your instructor is obligated to report any information they become aware of regarding alleged acts of sexual discrimination, including sexual violence and dating violence.  ASU Counseling Services, [https://eoss.asu.edu/counseling](https://eoss.asu.edu/counseling) is available if you wish to discuss any concerns confidentially and privately. ASU online students may access [360 Life Services](https://goto.asuonline.asu.edu/360lifeservices/). 
+ 
+ASU provides a dedicated [Sexual Violence Awareness and Response](https://sexualviolenceprevention.asu.edu/) website with a variety of resources and educational programs designed to prevent sexual violence and other acts of sexual misconduct, provide information about what to do when an incident has occurred, and increase awareness of campus and community resources for support and response. Victims of sexual violence, sexual harassment, stalking and relationship violence are encouraged to [seek support](https://sexualviolenceprevention.asu.edu/resources) and [report](https://sexualviolenceprevention.asu.edu/report) the incident. Identify the most appropriate path for your needs using the [Sexual Assault Reporting Options and Resources document](https://sexualviolenceprevention.asu.edu/sites/default/files/2023-05/sexual_assault_flowchart.pdf).
+ 
+For an online tool that is designed to help students who may be experiencing dating violence evaluate their safety, make decisions, and connect to campus and community services, visit: [www.myplanapp.org](http://www.myplanapp.org). myPlan is available for students of all gender identities and sexual orientations. This tool is also for friends who want to support someone they are concerned may be in an abusive relationship.
 
 <style> 
 body {
