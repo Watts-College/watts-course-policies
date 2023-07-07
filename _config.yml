@@ -23,7 +23,7 @@ course_url:         "https://watts-college.github.io/watts-course-policies/"
 # Header text on the left
 brand:
     image:          # logo.svg  # e.g. logo.png, upload logo image file to /assets/img/ folder
-    text:           "Program Evaluation"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
+    text:           "Watts Course Policies"    # if the above "logo:" image variable  is not set, this text logo is displayed instead
     # in the default html file add extra fav icons to header for parts II and III
 
 # Main website top navigation bar
@@ -40,7 +40,7 @@ header:
   url: help/
 
 
-calendly:  'mailto:david.schlinkert@asu.edu'
+calendly:  
 
 
 
@@ -55,8 +55,8 @@ permalink:          /:title/
 
 # Default author settings
 author:
-    name:       Jesse Lecy
-    github:     lecy   # Github username for avatar
+    name:       Jon Pratt
+    github:     jbpratt1   # Github username for avatar
 
 # Social icons displayed in footer
 social:
