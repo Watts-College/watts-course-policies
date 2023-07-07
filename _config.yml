@@ -6,15 +6,15 @@
 # GitHub Course Location 
 
 github_info:
-    username:          DS4PS 
+    username:          Watts 
     branch:            master
-    website-repo:      cpp-523-template
-    course-repo:       cpp-523-template
+    website-repo:      watts-course-policies
+    course-repo:       watts-course-policies
 
 # Site subpath, e.g. /blog
 url :               "https://watts-college.github.io/"
-baseurl:            "/cpp-523-template"
-course_url:         "https://watts-college.github.io/cpp-523-template/"
+baseurl:            "/watts-course-policies"
+course_url:         "https://watts-college.github.io/watts-course-policies/"
 
 
 # NAVIGATION BAR
