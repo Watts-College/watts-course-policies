@@ -46,7 +46,7 @@ Some students truly do not understand what plagiarism is, and therefore plagiari
 
 ### Accessibility Statement
 
-In compliance with the Rehabilitation Act of 1973, Section 504, and the Americans with Disabilities Act as amended (ADAAA) of 2008, professional disability specialists and support staff at Student Accessibility and Inclusive Learning Services (SAILS) facilitate a comprehensive range of academic support services and accommodations for qualified students with disabilities. SAILS staff coordinate transition from high schools and community colleges, in-service training for faculty and staff, resolution of accessibility issues, community outreach, and collaboration between all ASU campuses regarding disability policies, procedures, and accommodations.
+In compliance with the Rehabilitation Act of 1973, Section 504, and the Americans with Disabilities Act as amended (ADAAA) of 2008, professional disability specialists and support staff at [Student Accessibility and Inclusive Learning Services (SAILS)] (https://eoss.asu.edu/accessibility) facilitate a comprehensive range of academic support services and accommodations for qualified students with disabilities. SAILS staff coordinate transition from high schools and community colleges, in-service training for faculty and staff, resolution of accessibility issues, community outreach, and collaboration between all ASU campuses regarding disability policies, procedures, and accommodations.
 
 
 
