@@ -94,13 +94,13 @@ Accommodation for Line of Duty
 In accordance with SSM 201-18:
 1. Line-of-Duty Missed Assignment Make-Up Policy (incomplete or withdrawal not required).
 
-Students who serve as active duty or reserve military personnel who miss classes, graded assignments, or examinations because of required work performed in the line-of-duty, and this absence does not require the use of the activation for military duty withdrawal policy, shall be given opportunities to make-up examinations and other graded work. However, absence from class or examinations due to line-of-duty activities does not relieve students from responsibility for any part of the course work required during the period of the absence. In addition, because of the potential for a dramatic increase in family-related responsibilities during a deployed spouse's absence, student spouses who are legally responsible for minor dependents should be afforded the same accommodations to make-up missed work when their spouse is deployed. Under this policy, when there is a question as to the validity of the line-of-duty event, Pat Tillman Veterans Center shall determine whether a particular event qualifies as a military line-of-duty activity.
+...Students who serve as active duty or reserve military personnel who miss classes, graded assignments, or examinations because of required work performed in the line-of-duty, and this absence does not require the use of the activation for military duty withdrawal policy, shall be given opportunities to make-up examinations and other graded work. However, absence from class or examinations due to line-of-duty activities does not relieve students from responsibility for any part of the course work required during the period of the absence. In addition, because of the potential for a dramatic increase in family-related responsibilities during a deployed spouse's absence, student spouses who are legally responsible for minor dependents should be afforded the same accommodations to make-up missed work when their spouse is deployed. Under this policy, when there is a question as to the validity of the line-of-duty event, Pat Tillman Veterans Center shall determine whether a particular event qualifies as a military line-of-duty activity.
 
 2. Activation for Military Duty (incomplete or withdrawal required).
 
-A student who is a member of the National Guard, Reserve, or other U.S. Armed Forces branch or is the spouse, as described in the Purpose section of this policy, and is unable to complete classes because of military activation, may request complete withdrawal or course withdrawals, incompletes, or grades, depending on the timing of the activation and the individual student’s needs. Absences resulting from military activation will not adversely affect a student’s catalog year.
+...A student who is a member of the National Guard, Reserve, or other U.S. Armed Forces branch or is the spouse, as described in the Purpose section of this policy, and is unable to complete classes because of military activation, may request complete withdrawal or course withdrawals, incompletes, or grades, depending on the timing of the activation and the individual student’s needs. Absences resulting from military activation will not adversely affect a student’s catalog year.
 
-To receive consideration under the military activation policy, a student should complete a Military Activation Form and return the completed form, along with a copy of the military activation order, to the Pat Tillman Veterans Center. The Pat Tillman Veterans Center staff will coordinate the processing of the form for the student, including verification of orders, counseling on available options,  referrals to academic departments, referrals or notification to offices regarding potential refunds, and initiation of processing administrative withdrawals or incomplete grades.
+...To receive consideration under the military activation policy, a student should complete a Military Activation Form and return the completed form, along with a copy of the military activation order, to the Pat Tillman Veterans Center. The Pat Tillman Veterans Center staff will coordinate the processing of the form for the student, including verification of orders, counseling on available options,  referrals to academic departments, referrals or notification to offices regarding potential refunds, and initiation of processing administrative withdrawals or incomplete grades.
 
 ### Accommodation for Illness
 
@@ -149,6 +149,43 @@ As a mandated reporter, your instructor is obligated to report any information t
 ASU provides a dedicated [Sexual Violence Awareness and Response](https://sexualviolenceprevention.asu.edu/) website with a variety of resources and educational programs designed to prevent sexual violence and other acts of sexual misconduct, provide information about what to do when an incident has occurred, and increase awareness of campus and community resources for support and response. Victims of sexual violence, sexual harassment, stalking and relationship violence are encouraged to [seek support](https://sexualviolenceprevention.asu.edu/resources) and [report](https://sexualviolenceprevention.asu.edu/report) the incident. Identify the most appropriate path for your needs using the [Sexual Assault Reporting Options and Resources document](https://sexualviolenceprevention.asu.edu/sites/default/files/2023-05/sexual_assault_flowchart.pdf).
  
 For an online tool that is designed to help students who may be experiencing dating violence evaluate their safety, make decisions, and connect to campus and community services, visit: [www.myplanapp.org](http://www.myplanapp.org). myPlan is available for students of all gender identities and sexual orientations. This tool is also for friends who want to support someone they are concerned may be in an abusive relationship.
+
+# Self-Care, Unanticipated Distress and Counseling Services
+
+Throughout the learning that occurs in this course, students are asked to continually and carefully evaluate their own thoughts and feelings, be mindful of their reactions to the material, and practice self-care as needed. Given the nature of the material presented, the emotional content may be difficult. Students may experience unexpected and/or distressing responses to course content and discussions. Please communicate with your instructor if you need support around distress arising from course content. Please also be aware that ASU offers counseling services for enrolled students. For more information, please go to the ASU Counseling Services website:  [https://eoss.asu.edu/counseling](https://eoss.asu.edu/counseling)  or call (480) 965-6146, Monday – Friday 8am – 5pm. After business hours, call the EMPACT ASU-dedicated hotline at (480) 921-1006. [Student Advocacy and Assistance](https://eoss.asu.edu/dos/student-advocacy-and-assistance) in the Dean of Students office guides students in resolving educational, personal and other difficulties by linking students with appropriate university and community resources
+
+# Student Success
+
+## University Academic Success Programs
+
+Free tutoring support is available in person and online for most courses and for currently enrolled ASU students.  Services are offered through ASU’s [University Academic Success Programs](https://tutoring.asu.edu/) for currently enrolled students.
+
+Tutoring is available in math, business, science, statistics, and engineering courses.
+Writing tutoring is available for any writing project at any stage of the writing process.
+Graduate academic tutoring is available for writing and statistics. 
+Supplemental Instruction (SI) facilitates collaborative study groups for selected courses.
+Academic skills tutoring can help with critical reading, study skills, note taking, and more.
+Resources are available through our YouTube channel, Zoom recordings, and handouts.
+
+Visit [https://tutoring.asu.edu](https://tutoring.asu.edu) or call (480) 965-9072 for more information about these services, to view our schedules, or to book an appointment.
+ 
+## Writing Center and Support
+
+Students are encouraged to access the writing center for free assistance with their papers. ASU Writing Centers offer a dynamic, supportive learning environment for undergraduate and graduate students at any stage of the writing process. Free online writing tutoring is available at [https://tutoring.asu.edu/online-tutoring](https://tutoring.asu.edu/student-services/writing-centers). In addition, a number of writing tutorials on anything from [APA citations](https://tutoring.asu.edu/sites/default/files/apa_citations_and_formating_1.pdf), the [Purdue Online Writing Lab](https://owl.english.purdue.edu/), and much more can be found at [https://tutoring.asu.edu/student-resources/academic-resources](https://tutoring.asu.edu/student-resources/academic-resources).
+
+# Technical Support
+
+Your course may use Canvas to deliver assessments and content. Your Canvas course can be accessed through MyASU at [http://my.asu.edu](http://my.asu.edu/) or the Canvas home page at [https://canvas.asu.edu](https://canvas.asu.edu). 
+
+Should your course use other platforms, please look for technical support information within your course syllabus.
+
+To monitor the status of campus networks and services, visit the System Health Portal at [http://syshealth.asu.edu/](http://syshealth.asu.edu/).
+
+To contact the help desk call toll-free at 1-855-278-5080. You can also access technical support at [https://my.asu.edu/service](https://my.asu.edu/service).  
+
+# Workload Expectations 
+
+The Arizona Board of Regents, the governing board for ASU, NAU, and the U of A, has a policy for how much time students should invest in their courses: “A minimum of 45 hours of work by each student is required for each unit of credit.” Therefore, in a 3-credit course, students should expect to invest 45 hours in class meetings (or the online equivalent), as well as 90 hours doing homework and assignments—a total of 135 hours in any given session (A, B, or C). This translates to 9 hours per week for classes that meet over a 15 week-semester. For 7.5-week classes, the workload doubles to 18 hours per week engaging in online activities, reading, doing other homework, completing assignments or assessments, and studying. As you register for courses, keep this 135-hour standard in mind because during some semesters your work and/or family commitments may prevent you from taking a full load of classes.
 
 <style> 
 body {
