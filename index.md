@@ -1,56 +1,10 @@
 --- 
 layout: index
-title: Syllabus
+title: Watts Course Policies
 
 index:
     image: ASU_WattsPublicService_3_Horiz_RGB_Black_600ppi.png
     
-info: 
- program_title: Program Evaluation and Data Analytics
- program_website: 
- course_title: Foundations of Program Evaluation Part I
- course_number: CPP 523 
- course_level: Graduate 
- course_website: 'https://canvas.asu.edu/courses/86711'
- course_start_end_dates: May 17 - June 24, 2021 
- course_prerequisites: College Level Intro. to Stats 
- class_meets_when:  Asynchronous  
- class_meets_where:  'https://asu.zoom.us/j/84019158609'
- review_sessions_when: Friday, 12:30pm AZ 
- review_sessions_where: 'https://asu.zoom.us/j/84019158609'
- discussion_board_url: 'https://ds4ps.org/cpp-523-sum-2021/help/'
-
-instructor:
--  name: David Schlinkert
-   title: Professor
-   email: david.schlinkert@asu.edu
-   office_location: virtual
-   website_url: 
-   github_url: 'https://github.com/Schlinkert' 
-   twitter_url: 
-   scholar_url: 
-   linked_in_url: 'https://www.linkedin.com/in/david-schlinkert-0207646b/'
-   office_hours_time: By appointment
-   office_hours_location:  Zoom
-   office_hours_app_url:  'mailto:david.schlinkert@asu.edu'
-   
-
-textbooks:
-- title: 'Applied Regression: An Introduction'
-  authors: 'Lewis-Beck, C., & Lewis-Beck, M.'
-  edition: 2015
-  link: '/cpp-523-spr-2021/pubs/Applied%20Regression%20Lewis-Beck.pdf'
-  required: Required (follow link)
-- title: 'Impact Evaluation in Practice'
-  authors: 'Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. J.'
-  edition: 2011
-  link: 'https://github.com/DS4PS/cpp-523-fall-2020/raw/master/pubs/Impact_Evaluation_in_Practice%20WB%20full%20text%20second%20edition.pdf'
-  required: Free online
-- title: 'Real Stats: Using Econometrics for Political Science and Public Policy'
-  authors: 'Bailey, M. A.'
-  edition: 2016
-  link: 'https://www.amazon.com/Real-Stats-Econometrics-Political-Science/dp/0199981949'
-  required: Recommended Reference
 --- 
 
 
