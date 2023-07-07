@@ -13,7 +13,7 @@ github_info:
 
 # Site subpath, e.g. /blog
 url :               "https://watts-college.github.io/"
-baseurl:            "/watts-course-policies"
+baseurl:            "watts-course-policies"
 course_url:         "https://watts-college.github.io/watts-course-policies/"
 
 
