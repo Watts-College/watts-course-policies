@@ -12,8 +12,8 @@ github_info:
     course-repo:       watts-course-policies
 
 # Site subpath, e.g. /blog
-url :               "https://watts-college.github.io"
-baseurl:            "/watts-course-policies"
+url :               "https://watts-college.github.io/"
+baseurl:            "watts-course-policies"
 course_url:         "https://watts-college.github.io/watts-course-policies/"
 
 
