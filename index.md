@@ -166,14 +166,14 @@ Our mission is to ensure all students are able to meet their basic needs through
  
 _Please note this is NOT an emergency line, and any information provided in this form or shared with the WREN Office will be kept confidential unless there is an immediate danger to the safety and well-being of the individual(s)._
 
-WREN Assistance Request Form: [https://bit.ly/3oM3Fqi](https://bit.ly/3oM3Fqi) or email Ashley Funneman at [Ashley.Funneman@asu.edu](Ashley.Funneman@asu.edu).
+WREN Assistance Request Form: [https://bit.ly/3oM3Fqi](https://bit.ly/3oM3Fqi) or email Ashley Funneman at Ashley.Funneman@asu.edu.
 Find Help: findhelp.org
 SNAP Info: [https://des.az.gov/na](https://des.az.gov/na)
 AHCCCS Info: [https://www.azahcccs.gov/](https://www.azahcccs.gov/)
  
 Location: UCENT Advising Suite at 411 N Central Ave, Suite 164 – K, Phoenix, AZ 85004
 Hours: Tuesdays and Thursdays of every month from 9 am – 5:30 pm 
-Contact: Ashley Funneman at [Ashley.Funneman@asu.edu](Ashley.Funneman@asu.edu)
+Contact: Ashley Funneman at Ashley.Funneman@asu.edu
 
 # Student Success
 
