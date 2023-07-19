@@ -154,6 +154,27 @@ For an online tool that is designed to help students who may be experiencing dat
 
 Throughout the learning that occurs in this course, students are asked to continually and carefully evaluate their own thoughts and feelings, be mindful of their reactions to the material, and practice self-care as needed. Given the nature of the material presented, the emotional content may be difficult. Students may experience unexpected and/or distressing responses to course content and discussions. Please communicate with your instructor if you need support around distress arising from course content. Please also be aware that ASU offers counseling services for enrolled students. For more information, please go to the ASU Counseling Services website:  [https://eoss.asu.edu/counseling](https://eoss.asu.edu/counseling)  or call (480) 965-6146, Monday – Friday 8am – 5pm. After business hours, call the EMPACT ASU-dedicated hotline at (480) 921-1006. [Student Advocacy and Assistance](https://eoss.asu.edu/dos/student-advocacy-and-assistance) in the Dean of Students office guides students in resolving educational, personal and other difficulties by linking students with appropriate university and community resources
 
+## Watts Resources for Essential Needs Office (WREN)
+
+The **Watts Resources for Essential Needs Office (WREN)** is a comfortable space where students may be eligible to receive assistance with identifying and navigating basic needs resources within ASU and their communities. Additionally, students may be able to receive one-on-one assistance with applying to Arizona's Supplemental Nutritional Assistance Program [(SNAP)](https://des.az.gov/na) and state health insurance [(AHCCCS)](https://www.azahcccs.gov/). Students may be eligible to receive continued assistance with managing their SNAP and AHCCCS benefits. Please refer to the links below or schedule an appointment with the WREN Office to learn more about these programs! For out-of-state students, WREN can meet virtually and help find the appropriate resources for your state.
+
+The WREN Office utilizes [FindHelp.org](https://www.findhelp.org/) to identify and filter community resources available in the student’s specific zip code. The platform is free and can be accessed by students to search for resources on their own.
+ 
+Our mission is to ensure all students are able to meet their basic needs through access to community and ASU resources in order to thrive at Watts College!
+
+**If you are an ASU Watts College student facing challenges, you are encouraged to complete the [WREN Assistance Request Form](https://docs.google.com/forms/d/e/1FAIpQLScl1AEmh_litmoHY95W2bY27vV597idgt0unCvJqs87n5shsw/viewform?usp=sf_link) or email Ashley Funneman.** We will contact you shortly to set up a virtual or in-person appointment.
+ 
+_Please note this is NOT an emergency line, and any information provided in this form or shared with the WREN Office will be kept confidential unless there is an immediate danger to the safety and well-being of the individual(s)._
+
+WREN Assistance Request Form: [https://bit.ly/3oM3Fqi](https://bit.ly/3oM3Fqi) or email Ashley Funneman at [Ashley.Funneman@asu.edu](Ashley.Funneman@asu.edu).
+Find Help: findhelp.org
+SNAP Info: [https://des.az.gov/na](https://des.az.gov/na)
+AHCCCS Info: [https://www.azahcccs.gov/](https://www.azahcccs.gov/)
+ 
+Location: UCENT Advising Suite at 411 N Central Ave, Suite 164 – K, Phoenix, AZ 85004
+Hours: Tuesdays and Thursdays of every month from 9 am – 5:30 pm 
+Contact: Ashley Funneman at [Ashley.Funneman@asu.edu](Ashley.Funneman@asu.edu)
+
 # Student Success
 
 ## University Academic Success Programs
