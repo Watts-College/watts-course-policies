@@ -104,7 +104,7 @@ In accordance with SSM 201-18:
 
 ### Accommodation for Illness
 
-Absences for illness, quarantine, or self-isolation related to illness should be documented by a health professional and communicated to the instructor as soon as possible.
+If absent for illness, quarantine, or self-isolation for extended periods, reach out to [ASU EOSS Health Services](https://eoss.asu.edu/health) for medical assistance and/or support related to missing classes due to illness. Due to privacy concerns, your instructor will not accept or collect medical documentation. 
 
 ## Grade Appeals
 
