@@ -118,11 +118,11 @@ Per the [University Policy for Student Appeal Procedures on Grades](https://cata
 
 ## Faculty as Mandated Reporters
 
-Course faculty are mandated reporters; therefore, anything communicated in class or in a course assignment or assessment that raises concern about safety and/or well-being of a student or another individual or group may be cause for intervention and communication with other university staff and community officials.
+Course faculty are [mandated reporters](https://sexualviolenceprevention.asu.edu/); therefore, anything communicated in class or in a course assignment or assessment that raises concern about safety and/or well-being of a student or another individual or group may be cause for intervention and communication with other university staff and community officials.
 
 ## Health Insurance Portability and Accountability Act (HIPAA) Policy Statement
 
-Should you be participating in course work involving health information of clients, you are subject to HIPAA regulations that protect client health information. To comply with these regulations, any client information you present from your internship or work must be de-identified. Any information that would allow someone to determine the client’s identity must be changed or eliminated.  This includes obvious information like names and birthdates. Other information so unique to the person that it will allow for identification may include such variables as diagnosis, race/ethnicity, gender, sexual orientation, and place of residence.
+Should you be participating in course work involving health information of clients, you are subject to [HIPAA](https://www.hhs.gov/hipaa/index.html) regulations that protect client health information. To comply with these regulations, any client information you present from your internship or work must be de-identified. Any information that would allow someone to determine the client’s identity must be changed or eliminated.  This includes obvious information like names and birthdates. Other information so unique to the person that it will allow for identification may include such variables as diagnosis, race/ethnicity, gender, sexual orientation, and place of residence.
 
 ## Professional Conduct and Civility in the Classroom
 
