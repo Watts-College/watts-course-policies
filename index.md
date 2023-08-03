@@ -106,6 +106,10 @@ In accordance with SSM 201-18:
 
 If absent for illness, quarantine, or self-isolation for extended periods, reach out to [ASU EOSS Health Services](https://eoss.asu.edu/health) for medical assistance and/or support related to missing classes due to illness. Due to privacy concerns, your instructor will not accept or collect medical documentation. 
 
+## Drop and Add Dates/Withdrawals
+
+This course adheres to a schedule and may be part of a sequenced program, therefore, there is a limited timeline to [drop or add the course](https://students.asu.edu/academic-calendar). Consult with your advisor and notify your instructor to add or drop this course. If you are considering a withdrawal, review the following ASU policies: [Withdrawal from Classes](http://www.asu.edu/aad/manuals/ssm/ssm201-08.html), [Medical/Compassionate Withdrawal](https://public.powerdms.com/ASU/documents/1560509), and a [Grade of Incomplete](https://public.powerdms.com/ASU/documents/1560530).
+
 ## Grade Appeals
 
 Per the [University Policy for Student Appeal Procedures on Grades](https://catalog.asu.edu/appeal), grade disputes must first be addressed by discussing the situation with the instructor. If the dispute is not resolved with the instructor, the student may appeal to the School Director’s official designee, which may include the School’s Academic Grievance Officer or the Associate Director of the School. If the dispute is not resolved at the School level, the student may appeal to the Dean’s official designee. The appeal process is final at the College level.
