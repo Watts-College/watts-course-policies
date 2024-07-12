@@ -204,7 +204,7 @@ Should your course use other platforms, please look for technical support inform
 
 To monitor the status of campus networks and services, visit the System Health Portal at [http://syshealth.asu.edu/](http://syshealth.asu.edu/).
 
-To contact the help desk call toll-free at 1-855-278-5080. You can also access technical support at [https://my.asu.edu/service](https://my.asu.edu/service).  
+To contact the help desk call toll-free at 1-855-278-5080. You can also access technical support at [https://asu.my.site.com/studentSC](https://asu.my.site.com/studentSC).  
 
 # Workload Expectations 
 
