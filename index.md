@@ -11,11 +11,9 @@ index:
 
 ## Academic Integrity
 
-Academic honesty is expected of all students in all examinations, papers, laboratory work, academic transactions, and records. All submissions by a student are expected to be the student’s original work. Material that violates this requirement in any way, or that constitutes any form of dishonesty, cheating, fabrication, the facilitation of academic dishonesty, and/or plagiarism, may result in the student receiving sanctions that include, but are not limited to, appropriate grade penalties, course failure (indicated on the transcript as a grade of ‘E’), course failure due to academic dishonesty (indicated on the transcript as a grade of ‘XE’), loss of registration privileges, disqualification, suspension, and dismissal from the university. Please see the official ASU Policy on Cheating and Plagiarism (Policy Statement 08-02) for more details about the consequences of academic dishonesty. It is accessible online at: [https://provost.asu.edu/academic-integrity](https://provost.asu.edu/academic-integrity)  
+Academic honesty is expected of all students in all examinations, papers, laboratory work, academic transactions, and records. All submissions by a student are expected to be the student’s original work. Material that violates this requirement in any way, or that constitutes any form of dishonesty, cheating, fabrication, the facilitation of academic dishonesty, and/or plagiarism, may result in the student receiving sanctions that include, but are not limited to, appropriate grade penalties, course failure (indicated on the transcript as a grade of ‘E’), course failure due to academic dishonesty (indicated on the transcript as a grade of ‘XE’), loss of registration privileges, disqualification, suspension, and dismissal from the university. Please see the official ASU Policy on Cheating and Plagiarism for more details about the consequences of academic dishonesty. It is accessible online at: [https://provost.asu.edu/academic-integrity](https://provost.asu.edu/academic-integrity)  
 
-If students have questions about appropriate submissions or methods of citation or have extenuating circumstances, they should contact their instructor prior to submitting materials and prior to the assignment deadline..
-
-Anyone in violation of these policies is subject to sanctions.
+If students have questions about appropriate submissions or methods of citation or have extenuating circumstances, they should contact their instructor prior to submitting materials and prior to the assignment deadline.
 
 ### Electronic Review of Written Submissions 
 To ensure compliance with academic integrity policies, written submissions will be submitted to TurnItIn, or a similar plagiarism detection program. Submission of any writing assignment in the course to the professor constitutes consent by the student for the instructor to upload the paper to check against any anti-plagiarism database.
@@ -30,13 +28,13 @@ Students may not upload, sell, or distribute—to any course shell, discussion b
 
 ### Avoiding Plagiarism 
 
-Some students truly do not understand what plagiarism is, and therefore plagiarize unwittingly or unintentionally. But ignorance is not an excuse for unethical academic conduct. To avoid plagiarism, review this tutorial on Plagiarism Awareness and this reference on Avoiding Plagiarism. Moreover, read the following rules that apply regardless of the citation form or style you may be using:
+Some students truly do not understand what plagiarism is, and therefore plagiarize unwittingly or unintentionally. But ignorance is not an excuse for unethical academic conduct. To avoid plagiarism, review this [tutorial on Plagiarism Awareness](https://www.asu.edu/lib/tutorials/storyline/plagiarism-awareness/story_html5.html) and this [reference on Avoiding Plagiarism](https://owl.purdue.edu/owl/avoiding_plagiarism/index.html). Moreover, read the following rules that apply regardless of the citation form or style you may be using:
 
 1. _Direct Quotations_ – Whenever you directly quote someone else, you must provide a citation to the source of the material from which you are quoting. Moreover, you must put the material in quotation marks or otherwise set it off in an indented quote so the reader knows what words are yours and what words are quoted. It is unacceptable to use the words of others and only partially quote the original source. This is true even if you provide citations to the source both in text and in your references section!
 
 2. _Paraphrasing/Indirect Quotations_ – Whenever you indirectly quote someone else (i.e., you paraphrase the work of another), you must provide a citation to the source of the material from which you are paraphrasing. Simply changing the structure of a sentence, or a few words in a sentence so that the sentence you write is not an exact quote from the original source does not mean a citation is not needed. This is because the idea you are expressing is not your own, but rather someone else’s.
 
-3. _Using Other’s Ideas_ – Even if you compose an entire paragraph of writing in your own words (i.e., neither quoted, nor paraphrased), if the idea you are expressing in that paragraph is not your own, original idea, you must provide a citation to the source from which you obtained this idea.
+3. _Using Other’s Ideas_ – Even if you compose an entire paragraph of writing in your own words (i.e., neither quoted nor paraphrased), if the idea you are expressing in that paragraph is not your own, original idea, you must provide a citation to the source from which you obtained this idea.
 
 4. _Collaborative Work_ – If you collaborate on any work with someone else and fail to acknowledge that collaboration, you are guilty of plagiarism. If you have received permission from your professor to collaborate on some assignment, be sure that all of the contributor's names appear on the submission.
 
@@ -50,25 +48,23 @@ In compliance with the Rehabilitation Act of 1973, Section 504, and the American
 
 ### Establishing Eligibility for Disability Accommodations
 
-[Qualified students with disabilities may be eligible to receive academic support services and accommodations] (http://www.asu.edu/aad/manuals/ssm/ssm701-01.html). Eligibility is based on qualifying disability documentation and assessment of individual need. Students who believe they have a current and essential need for disability accommodations are [responsible for requesting accommodations and providing qualifying documentation](http://www.asu.edu/aad/manuals/ssm/ssm701-02.html) to Student Accessibility and Inclusive Learning Services (SAILS). 
+[Qualified students with disabilities may be eligible to receive academic support services and accommodations](https://policy.asu.edu/#doc1560605). Eligibility is based on qualifying disability documentation and assessment of individual need. Students who believe they have a current and essential need for disability accommodations are [responsible for requesting accommodations and providing qualifying documentation](https://policy.asu.edu/#doc1560606) to Student Accessibility and Inclusive Learning Services (SAILS).  
 
 Every effort is made to provide reasonable accommodations for qualified students with disabilities. Prior to receiving any disability accommodations, verification of eligibility from SAILS is required. Once registered with SAILS, students with disabilities must meet with the instructor to discuss what reasonable accommodations they will need to be successful in this course. Students with disabilities that are known at the time this course begins are encouraged to make your request for accommodations at the beginning of the semester, either during office hours or by appointment. For disabilities that arise after the course has begun, students should meet with the instructor at the earliest possible time to arrange accommodations for their learning needs. Disability information is confidential.
 
 Qualified students who wish to request an accommodation for a disability should contact SAILS by going to [https://eoss.asu.edu/accessibility](https://eoss.asu.edu/accessibility), calling (480) 965-1234 or emailing [student.accessibility@asu.edu](student.accessibility@asu.edu). To speak with a specific office, please use the following information:
 
-**ASU Online and Downtown Phoenix Campus**
-University Center Building, Suite 160
-602-496-4321 (Voice)
+**Downtown Phoenix Campus**
+[Post Office, Suite 201](http://myatlascms.com/map/?id=120&mrkIid=62627)
 
 **Polytechnic Campus**
-480-727-1165 (Voice)
+[Wanner Hall - Suite 101](https://www.asu.edu/map/interactive/?campus=polytechnic&building=WANER)
 
 **West Campus**
-University Center Building (UCB), Room 130
-602-543-8145 (Voice)
+[University Center Building, Room 304](http://www.asu.edu/map/interactive/?campus=west&building=UCB)
 
 **Tempe Campus**
-480-965-1234 (Voice)
+[Matthews Center building, 1st floor](http://www.asu.edu/map/interactive/?campus=tempe&building=MCENT)
 
 ## Attendance and Accommodation of Excused Absences
 
@@ -108,7 +104,7 @@ If absent for illness, quarantine, or self-isolation for extended periods, reach
 
 ## Drop and Add Dates/Withdrawals
 
-This course adheres to a schedule and may be part of a sequenced program, therefore, there is a limited timeline to [drop or add the course](https://students.asu.edu/academic-calendar). Consult with your advisor and notify your instructor to add or drop this course. If you are considering a withdrawal, review the following ASU policies: [Withdrawal from Classes](http://www.asu.edu/aad/manuals/ssm/ssm201-08.html), [Medical/Compassionate Withdrawal](https://public.powerdms.com/ASU/documents/1560509), and a [Grade of Incomplete](https://public.powerdms.com/ASU/documents/1560530).
+This course adheres to a schedule and may be part of a sequenced program, therefore, there is a limited timeline to [drop or add the course](https://students.asu.edu/academic-calendar). Consult with your advisor and notify your instructor to add or drop this course. If you are considering a withdrawal, review the following ASU policies: [Withdrawal from Classes](https://policy.asu.edu/#doc1560508), [Medical/Compassionate Withdrawal](https://policy.asu.edu/#doc1560509), and a [Grade of Incomplete](https://policy.asu.edu/#doc1560530).
 
 ## Grade Appeals
 
@@ -130,19 +126,21 @@ Professional conduct is expected in the classroom setting. That is, students sho
 
 ## Prohibition of Commercial Note Taking Services
 
-In accordance with [ACD 304-06 Commercial Note Taking Services](http://www.asu.edu/aad/manuals/acd/acd304-06.html), written permission must be secured from the official instructor of the class in order to sell the instructor's oral communication in the form of notes. Notes must have the notetaker's name as well as the instructor's name, the course number, and the date.
+In accordance with [ACD 304-06 Commercial Note Taking Services](https://policy.asu.edu/#doc1557491), written permission must be secured from the official instructor of the class in order to sell the instructor's oral communication in the form of notes. Notes must have the notetaker's name as well as the instructor's name, the course number, and the date.
 
 ## Student Conduct
 
-Required behavior standards are listed in the [Student Code of Conduct and Student Disciplinary Procedures, Computer, Internet, and Electronic Communications policy](http://www.asu.edu/aad/manuals/ssm/ssm104-01.html), and outlined by the [Office of Student Rights & Responsibilities](https://students.asu.edu/srr). In addition, 
+Required behavior standards are listed in the [Student Code of Conduct and Student Disciplinary Procedures](https://policy.asu.edu/#doc1560489), [Computer, Internet, and Electronic Communications policy](https://policy.asu.edu/#doc1540286), and outlined by the [Office of Student Rights & Responsibilities](https://students.asu.edu/srr). In addition, 
 
-* [Students are entitled to receive instruction free from interference](http://www.asu.edu/aad/manuals/ssm/ssm104-02.html) by other members of the class. An instructor may withdraw a student from the course when the student's behavior disrupts the educational process per [Instructor Withdrawal of a Student for Disruptive Classroom Behavior](http://www.asu.edu/aad/manuals/usi/usi201-10.html).
+* All incidents and allegations of violent or threatening conduct by an ASU student (whether on- or off-campus) must be reported to the ASU Police Department (ASU PD) and the Office of the Dean of Students. If either office determines that the behavior poses or has posed a serious threat to personal safety or to the welfare of the campus, the student will not be permitted to return to campus or reside in any ASU residence hall until an appropriate threat assessment has been completed and, if necessary, conditions for return are imposed. ASU PD, the Office of the Dean of Students, and other appropriate offices will coordinate the assessment in light of the relevant circumstances. See Section 104-02 of the Student Services manual for more information.
 
-* Although you are welcome to disagree with the professor or your classmates, everyone is expected to participate respectfully. Students who engage in personal attacks; who use rude, insulting, or disrespectful language; or who engage in other disruptive or threatening behavior may face disciplinary action. Indeed, an instructor may withdraw a student from a course with a mark of ‘W’ or ‘E’ when the student’s behavior disrupts the educational process. In addition, students may face formal disciplinary action in the Office of Student Judicial Affairs. For more details about the University’s Student Code of Conduct, please visit the following link and read the Arizona Board of Regents Policy Manual Sections 5-301 to 5-404, the terms of which are hereby incorporated by reference into this syllabus:  [https://www.azregents.edu/board-committees/policy-manual](https://www.azregents.edu/board-committees/policy-manual) 
+* [Students are entitled to receive instruction free from interference](https://policy.asu.edu/#doc1560489) by other members of the class. An instructor may withdraw a student from the course when the student's behavior disrupts the educational process per [Instructor Withdrawal of a Student for Disruptive Classroom Behavior](https://public.powerdms.com/ASU/documents/1560510).
+
+* Although you are welcome to disagree with the professor or your classmates, everyone is expected to participate respectfully. Students who engage in personal attacks; who use rude, insulting, or disrespectful language; or who engage in other disruptive or threatening behavior may face disciplinary action. Indeed, an instructor may withdraw a student from a course with a mark of ‘W’ or ‘E’ when the student’s behavior disrupts the educational process. In addition, students may face formal disciplinary action in the Office of Student Judicial Affairs. For more details about the University’s Student Code of Conduct, please visit the following link and read the Arizona Board of Regents Policy Manual Sections 5-301 to 5-404, the terms of which are hereby incorporated by reference into this syllabus:  [https://www.azregents.edu/about/policy-manual]([https://www.azregents.edu/board-committees/policy-manual](https://www.azregents.edu/about/policy-manual)) 
 
 * Appropriate online behavior (also known as netiquette) is defined by the instructor and includes keeping course discussion posts focused on the assigned topics. Students must maintain a cordial atmosphere and use tact in expressing differences of opinion. Inappropriate discussion board posts may be deleted by the instructor.
 
-The Office of Student Rights and Responsibilities accepts [incident reports](https://students.asu.edu/srr/report) from students, faculty, staff, or other persons who believe that a student or a student organization may have violated the Student Code of Conduct.
+The Office of Student Rights and Responsibilities accepts [incident reports](https://eoss.asu.edu/dos/srr/filingreport) from students, faculty, staff, or other persons who believe that a student or a student organization may have violated the Student Code of Conduct.
 
 ## Title IX: Sex Discrimination, Sexual Harassment, and Sexual Abuse
 
@@ -170,14 +168,14 @@ Our mission is to ensure all students are able to meet their basic needs through
  
 _Please note this is NOT an emergency line, and any information provided in this form or shared with the WREN Office will be kept confidential unless there is an immediate danger to the safety and well-being of the individual(s)._
 
-WREN Assistance Request Form: [https://bit.ly/3oM3Fqi](https://bit.ly/3oM3Fqi) or email Ashley Funneman at Ashley.Funneman@asu.edu.
+WREN Assistance Request Form: [https://bit.ly/3oM3Fqi](https://bit.ly/3oM3Fqi) or email Ashley Funneman at afunnema@asu.edu.
 Find Help: findhelp.org
 SNAP Info: [https://des.az.gov/na](https://des.az.gov/na)
 AHCCCS Info: [https://www.azahcccs.gov/](https://www.azahcccs.gov/)
  
 Location: UCENT Advising Suite at 411 N Central Ave, Suite 164 – K, Phoenix, AZ 85004
 Hours: Tuesdays and Thursdays of every month from 9 am – 5:30 pm 
-Contact: Ashley Funneman at Ashley.Funneman@asu.edu
+Contact: Ashley Funneman at afunnema@asu.edu
 
 # Student Success
 
@@ -196,7 +194,7 @@ Visit [https://tutoring.asu.edu](https://tutoring.asu.edu) or call (480) 965-907
  
 ## Writing Center and Support
 
-Students are encouraged to access the writing center for free assistance with their papers. ASU Writing Centers offer a dynamic, supportive learning environment for undergraduate and graduate students at any stage of the writing process. Free online writing tutoring is available at [https://tutoring.asu.edu/online-tutoring](https://tutoring.asu.edu/student-services/writing-centers). In addition, a number of writing tutorials on anything from [APA citations](https://tutoring.asu.edu/sites/default/files/apa_citations_and_formating_1.pdf), the [Purdue Online Writing Lab](https://owl.english.purdue.edu/), and much more can be found at [https://tutoring.asu.edu/student-resources/academic-resources](https://tutoring.asu.edu/student-resources/academic-resources).
+Students are encouraged to access the writing center for free assistance with their papers. ASU Writing Centers offer a dynamic, supportive learning environment for undergraduate and graduate students at any stage of the writing process. Free online writing tutoring is available at [https://tutoring.asu.edu/writing-centers](https://tutoring.asu.edu/writing-centers).
 
 # Technical Support
 
