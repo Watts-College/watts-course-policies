@@ -208,23 +208,21 @@ To contact the help desk call toll-free at 1-855-278-5080. You can also access t
 
 # Workload Expectations 
 
-The Arizona Board of Regents, the governing board for ASU, NAU, and the U of A, has a policy for how much time students should invest in their courses: “A minimum of 45 hours of work by each student is required for each unit of credit.” Therefore, in a 3-credit course, students should expect to invest 45 hours in class meetings (or the online equivalent), as well as 90 hours doing homework and assignments—a total of 135 hours in any given session (A, B, or C). This translates to 9 hours per week for classes that meet over a 15 week-semester. For 7.5-week classes, the workload doubles to 18 hours per week engaging in online activities, reading, doing other homework, completing assignments or assessments, and studying. As you register for courses, keep this 135-hour standard in mind because during some semesters your work and/or family commitments may prevent you from taking a full load of classes.
+Coursework includes all learning activities including reading, watching videos, studying, and completing assignments. Arizona Board of Regents (ABOR) requires 45 hours of coursework per credit for college-level courses, which translates to:
 
-<style> 
-body {
-   font-family: "Roboto", sans-serif;
-}
- 
-p.italic {
-  font-style: italic;
-  color: black !important;
-}
+* 1 credit hour = 45 total hours
+* 2 credit hours = 90 total hours
+* 3 credit hours = 135 total hours
+* 4 credit hours = 180 total hours
+* 5 credit hours = 225 total hours
 
-em {
-  color: black !important;
-  }
+ASU courses range in length from 6 weeks to 15 weeks. Below is a breakdown of the 135-hour required time commitment for a three-credit course divided among weeks for courses of various lengths. 
 
-#fa-icon {
-  font-style: normal;
-}
-</style>
+||||
+|--- |--- |--- |
+|Course Length|Time on Coursework per Week for a 3-Credit Course|Total Time Requirement for a 3-Credit Course|
+|6  weeks|22.5 hours|135 hours|
+|7.5 weeks|18 hours|135 hours|
+|8  weeks|17 hours|135 hours|
+|15 weeks|9 hours|135 hours|
+
