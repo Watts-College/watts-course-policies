@@ -208,7 +208,7 @@ To contact the help desk call toll-free at 1-855-278-5080. You can also access t
 
 # Workload Expectations 
 
-Coursework includes all learning activities including reading, watching videos, studying, and completing assignments. Arizona Board of Regents (ABOR) requires 45 hours of coursework per credit for college-level courses, which translates to:
+Coursework includes all learning activities including reading, watching videos, studying, and completing assignments. [Arizona Board of Regents (ABOR) requires 45 hours of coursework per credit for college-level courses](https://public.powerdms.com/ABOR/documents/1491660), which translates to:
 
 * 1 credit hour = 45 total hours
 * 2 credit hours = 90 total hours
