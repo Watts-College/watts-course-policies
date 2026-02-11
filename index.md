@@ -157,13 +157,36 @@ For an online tool that is designed to help students who may be experiencing dat
 
 Throughout the learning that occurs in this course, students are asked to continually and carefully evaluate their own thoughts and feelings, be mindful of their reactions to the material, and practice self-care as needed. Given the nature of the material presented, the emotional content may be difficult. Students may experience unexpected and/or distressing responses to course content and discussions. Please communicate with your instructor if you need support around distress arising from course content. Please also be aware that ASU offers counseling services for enrolled students. For more information, please go to the ASU Counseling Services website:  [https://eoss.asu.edu/counseling](https://eoss.asu.edu/counseling) or call (480) 965-6146, Monday – Friday 8am – 5pm. After business hours, call the EMPACT ASU-dedicated hotline at (480) 921-1006. [Student Advocacy and Assistance](https://eoss.asu.edu/dos/student-advocacy-and-assistance) in the Dean of Students office guides students in resolving educational, personal and other difficulties by linking students with appropriate university and community resources.
 
+# UCENT 150
+ 
+**Hangout:** Looking for the perfect spot to study, relax, and connect? UCENT 150 office was built with students in mind! Swing by to grab a snack and a cup of coffee/ tea, unwind with friends, or find a cozy corner to hit the books.
+
+* Hours: Tuesday, Wednesday, Thursday from 10 am – 4 pm  
+
+**Events & Opportunities:** Throughout the semester, the Watts Student Engagement Team offers student-focused events such as lunch and learns, stress-relief activities, and other programs that build community and support professional growth. In addition to events, we provide a wide range of opportunities and student support.
+
+* Check opportunities: [https://links.asu.edu/wattsengagementmenu1](https://links.asu.edu/wattsengagementmenu1)
+* Follow us on Instagram: @wattscasa
+
+**Conference Room:** Need a spot for group work or a meeting? Reserve our conference room for group study sessions, projects, or anything else you’ve got going on. It’s easy and convenient!
+
+* Reserve: [links.asu.edu/ucent150a](https://links.asu.edu/ucent150a)
+
+**Donation Closet:** The WREN Donation Closet has non-perishable food, water, hygiene products, menstrual products, school supplies, dorm supplies, chargers, and other items that students can take at any time! 
+
+* Hours: Monday – Friday from 9 am – 5 pm
+* Location: UCENT,  411 N Central Ave, Suite 150 – E, Phoenix, AZ 85004 (on the first floor of UCENT right across from the bank) 
+* Contact: wattsstudentengagement@asu.edu
+* Social media: Instagram - @wattscasa
+* Webpage: [publicservice.asu.edu](https://publicservice.asu.edu/)
+
 # Watts Resources for Essential Needs Office (WREN)
 
-The Watts Resources for Essential Needs (WREN) Office assists students with **identifying and navigating basic needs resources within ASU and their communities** and **provides 1:1 application assistance to Arizona's Supplemental Nutrition Assistance Program [(SNAP)](https://des.az.gov/na) and state health insurance [(AHCCCS)](https://www.azahcccs.gov/)**. *We also have a supply of menstrual products, hygiene products, and other items that students can take at any time\!* Additionally, we offer continued case management and advocacy for students when required. We are here to address a wide range of needs, and if we are unable to provide direct assistance, we will ensure students are referred to the appropriate resources.
+The Watts Resources for Essential Needs (WREN) Office assists students with **identifying and navigating basic needs resources within ASU and their communities** and **provides 1:1 application assistance to Arizona's Supplemental Nutrition Assistance Program [(SNAP)](https://des.az.gov/na) and state health insurance [(AHCCCS)](https://www.azahcccs.gov/)**. *We also have a **Donation Closet** with non-perishable food, water, hygiene products, menstrual products, school supplies, dorm supplies, chargers, and other items that students can take at any time! * Additionally, we offer continued case management and advocacy for students when required. We are here to address a wide range of needs, and if we are unable to provide direct assistance, we will ensure students are referred to the appropriate resources.
 
-Our mission is to ensure all students are able to meet their basic needs through access to community and ASU resources in order to thrive at Watts College\!
+Our mission is to ensure all students are able to meet their basic needs through access to community and ASU resources in order to thrive at Watts College!
 
-Please refer to the links below to schedule an appointment and/or learn more\!
+Please refer to the links below to schedule an appointment and/or learn more!
 
 *Please note this is NOT an emergency line, and any information provided in this form or shared with the WREN Office will be kept confidential unless there is an immediate danger to the safety and well-being of the individual(s).*
 
@@ -175,10 +198,10 @@ Please refer to the links below to schedule an appointment and/or learn more\!
 ### Contact Info
 
 * **Location:** UCENT,  411 N Central Ave, Suite 150 – E, Phoenix, AZ 85004 (on the first floor of UCENT right across from the bank)   
-* **Hours:** Tuesdays, Wednesday, and Thursdays of every month from 9 am – 5:30 pm  
-* **Contact:** Ashley Funneman at afunnema@asu.edu   
-* View the [WREN Outreach PowerPoint](https://docs.google.com/presentation/d/1iL2gyrLBnoKi0X7p0MfSW2VhLP5tBBOE/edit?usp=sharing&ouid=115981139786234976322&rtpof=true&sd=true) for more information about our Office\!  
-* **Social Media:** Instagram \- @wren\_office
+* **Hours:** Mondays, Tuesdays, Wednesday, Thursdays, and Fridays from 9 am – 5 pm  
+* **Contact:** wren@asu.edu   
+* Click here to view the [WREN Outreach PowerPoint](https://docs.google.com/presentation/d/1iL2gyrLBnoKi0X7p0MfSW2VhLP5tBBOE/edit?usp=sharing&ouid=115981139786234976322&rtpof=true&sd=true) for more information about our Office\!  
+* **Social Media:** Instagram @wattscasa // \- @wren\_office
 
 # Student Success
 
