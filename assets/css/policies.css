@@ -1,0 +1,115 @@
+/* Styles scoped to the course policies page's standalone layout. */
+:root {
+  color-scheme: light;
+  --asu-maroon: #8c1d40;
+  --asu-maroon-hover: #6b1631;
+  --text-color: #191919;
+}
+
+* { box-sizing: border-box; }
+html { background: #fff; }
+body {
+  margin: 0;
+  background: #fff;
+  color: var(--text-color);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.65;
+}
+.page-header, main {
+  width: 100%;
+  max-width: 54rem;
+  margin-inline: auto;
+  padding-inline: 1.25rem;
+}
+.page-header { padding-block: 2rem 1rem; }
+.college-logo {
+  display: block;
+  width: 100%;
+  max-width: 38rem;
+  height: auto;
+  margin-inline: auto;
+}
+main { padding-bottom: 4rem; }
+h1, h2, h3, h4 {
+  color: var(--text-color);
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+  scroll-margin-top: 1rem;
+}
+h1 { font-size: 2.25rem; margin: 1rem 0 1.5rem; }
+h2 { font-size: 1.65rem; margin: 2.5rem 0 1rem; }
+h3 { font-size: 1.3rem; margin: 1.75rem 0 .75rem; }
+h4 { font-size: 1.125rem; margin: 1.5rem 0 .75rem; }
+p, ul, ol { margin-block: 0 1.25rem; }
+ul, ol { padding-inline-start: 1.5rem; }
+li { margin-block: .5rem; }
+li > p { margin-block: .5rem; }
+a, a:visited {
+  color: var(--asu-maroon);
+  text-decoration: underline;
+  text-underline-offset: .15em;
+  text-decoration-thickness: .08em;
+  overflow-wrap: anywhere;
+}
+a:hover {
+  color: var(--asu-maroon-hover);
+  text-decoration-thickness: .15em;
+}
+a:focus-visible, button:focus-visible, [tabindex="0"]:focus-visible {
+  outline: 3px solid #000;
+  outline-offset: 3px;
+}
+main:focus { outline: none; }
+.skip-link {
+  position: absolute;
+  top: .5rem;
+  left: .5rem;
+  z-index: 10;
+  padding: .75rem 1rem;
+  background: #fff;
+  transform: translateY(-200%);
+}
+.skip-link:focus { transform: translateY(0); }
+.page-contents {
+  border-block: 1px solid #ccc;
+  padding-block: 1.25rem;
+  margin-block: 0 2rem;
+}
+.page-contents h2 { font-size: 1.3rem; margin: 0 0 .75rem; }
+.page-contents ul {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .25rem 2rem;
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
+.page-contents li { margin: 0; }
+.page-contents a { display: inline-block; padding-block: .35rem; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-block: 1.5rem;
+  font-size: 1rem;
+  overflow-wrap: anywhere;
+}
+caption { text-align: left; font-weight: 700; margin-bottom: .75rem; }
+th, td { border: 1px solid #767676; padding: .65rem; text-align: left; vertical-align: top; }
+thead th { background: #f2f2f2; }
+@media (max-width: 36rem) {
+  .page-header, main { padding-inline: 1rem; }
+  .page-header { padding-top: 1.5rem; }
+  h1 { font-size: 1.9rem; }
+  h2 { font-size: 1.5rem; }
+  .page-contents ul { grid-template-columns: minmax(0, 1fr); }
+  th, td { padding: .4rem; }
+}
+@media print {
+  body { font-size: 11pt; }
+  .page-header, main { max-width: none; padding: 0; }
+  .college-logo { max-width: 25rem; }
+  .skip-link, .page-contents { display: none; }
+  h2, h3, caption { break-after: avoid; }
+  tr { break-inside: avoid; }
+}

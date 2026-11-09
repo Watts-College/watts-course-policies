@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }}</title>
+  <link rel="icon" href="{{ '/assets/icons/favicon-32x32.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/policies.css' | relative_url }}">
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <header class="page-header">
+    <img class="college-logo" src="{{ '/assets/posts/ASU_WattsPublicService_3_Horiz_RGB_Black_600ppi.png' | relative_url }}" alt="Arizona State University, Watts College of Public Service and Community Solutions">
+  </header>
+  <main id="main-content" tabindex="-1">
+    {{ content }}
+  </main>
+</body>
+</html>

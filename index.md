@@ -1,5 +1,5 @@
 --- 
-layout: index
+layout: policies
 title: Watts Course Policies
 
 index:
@@ -8,6 +8,24 @@ index:
 --- 
 
 # Course Policies
+
+<nav class="page-contents" aria-labelledby="page-contents-title">
+  <h2 id="page-contents-title">On this page</h2>
+  <ul>
+    <li><a href="#academic-integrity">Academic integrity</a></li>
+    <li><a href="#accessibility-statement">Accessibility and accommodations</a></li>
+    <li><a href="#attendance-and-accommodation-of-excused-absences">Attendance and excused absences</a></li>
+    <li><a href="#drop-and-add-dateswithdrawals">Drop, add and withdrawals</a></li>
+    <li><a href="#grade-appeals">Grade appeals</a></li>
+    <li><a href="#conduct">Conduct</a></li>
+    <li><a href="#resources">Resources</a></li>
+    <li><a href="#ucent-150">UCENT 150</a></li>
+    <li><a href="#watts-resources-for-essential-needs-office-wren">WREN</a></li>
+    <li><a href="#student-success">Student success</a></li>
+    <li><a href="#technical-support">Technical support</a></li>
+    <li><a href="#workload-expectations">Workload expectations</a></li>
+  </ul>
+</nav>
 
 ## Academic Integrity
 
@@ -39,7 +57,7 @@ Some students truly do not understand what plagiarism is, and therefore plagiari
 
 6. **Altering or Revising Your Own Prior Work** – You should also be aware that reusing or revising your own work that was prepared for another class or another professor, and not bringing it to the attention of the professor to whom you are submitting the revised work is also academic dishonesty. If, for example, you have two classes that require a term paper, and you can write one paper that meets the requirements of both classes, you may not submit that paper to both professors unless you get permission to do so in advance from both professors. Similarly, if you wrote a paper several semesters ago that can be revised and submitted in satisfaction of a paper requirement for a course in which you are currently enrolled, doing so is academic dishonesty unless you get the advanced permission of your professor to do so. The reason this is dishonest is that it is not an original work prepared in satisfaction for the requirements of the course you are currently taking. Contact your instructor for written approval if you are seeking an exception for unique cases.
 
-### Accessibility Statement
+## Accessibility Statement
 
 In compliance with the Rehabilitation Act of 1973, Section 504, and the Americans with Disabilities Act as amended (ADAAA) of 2008, professional disability specialists and support staff at [Student Accessibility and Inclusive Learning Services (SAILS)](https://eoss.asu.edu/accessibility) facilitate a comprehensive range of academic support services and accommodations for qualified students with disabilities. SAILS staff coordinate transition from high schools and community colleges, in-service training for faculty and staff, resolution of accessibility issues, community outreach, and collaboration between all ASU campuses regarding disability policies, procedures, and accommodations.
 
@@ -109,25 +127,25 @@ This course adheres to a schedule and may be part of a sequenced program; theref
 
 Per the [University Policy for Student Appeal Procedures on Grades](https://catalog.asu.edu/appeal), grade disputes must first be addressed by discussing the situation with the instructor. If the dispute is not resolved with the instructor, the student may appeal to the School Director’s official designee, which may include the School’s Academic Grievance Officer, the School’s Program Director, or the Associate Director of the School. If the dispute is not resolved at the School level, the student may appeal to the Dean’s official designee. The appeal process is final at the College level.
 
-# Conduct
+## Conduct
 
-## Faculty as Mandated Reporters
+### Faculty as Mandated Reporters
 
 Course faculty are [mandated reporters](https://sexualviolenceprevention.asu.edu/); therefore, anything communicated in class or in a course assignment or assessment that raises concern about safety and/or well-being of a student or another individual or group may be cause for intervention and communication with other university staff and community officials.
 
-## Health Insurance Portability and Accountability Act (HIPAA) Policy Statement
+### Health Insurance Portability and Accountability Act (HIPAA) Policy Statement
 
 Should you be participating in course work involving health information of clients, you are subject to [HIPAA](https://www.hhs.gov/hipaa/for-individuals/index.html) regulations that protect client health information. To comply with these regulations, any client information you present from your internship or work must be de-identified. Any information that would allow someone to determine the client’s identity must be changed or eliminated. This includes obvious information like names and birthdates. Other information so unique to the person that it will allow for identification may include such variables as diagnosis, race/ethnicity, gender, sexual orientation, and place of residence.
 
-## Professional Conduct and Civility in the Classroom
+### Professional Conduct and Civility in the Classroom
 
 Professional conduct is expected in the classroom setting. That is, students should arrive on time for class, be prepared to participate in the class discussion, and show respect for one another’s opinions. College courses bring together a group of diverse individuals with various backgrounds. Students are influenced and shaped by such factors as ethnicity, gender, sex, physical abilities, religious and political beliefs, national origins, and sexual orientations, among others. We expect to learn from each other in an atmosphere of positive engagement and mutual respect. This course may deal with complex and controversial issues that often feel challenging and uncomfortable. We will be exposed to diverse ideas and opinions, and sometimes we will not agree with the ideas expressed by others. Nevertheless, students must engage with one another with civility, respect, and professionalism. Students are encouraged to carefully evaluate their own thinking about violence against individuals of all backgrounds while being mindful of your thoughts of others’ lived experiences.
 
-## Prohibition of Commercial Note Taking Services
+### Prohibition of Commercial Note Taking Services
 
 In accordance with [ACD 304-06 Commercial Note Taking Services](https://public.powerdms.com/ASU/documents/1557491), written permission must be secured from the official instructor of the class in order to sell the instructor's oral communication in the form of notes. Notes must have the notetaker's name as well as the instructor's name, the course number, and the date.
 
-## Student Conduct
+### Student Conduct
 
 Required behavior standards are listed in the [Student Code of Conduct and Student Disciplinary Procedures](https://public.powerdms.com/ASU/documents/1560489), [Computer, Internet, and Electronic Communications policy](https://public.powerdms.com/ASU/documents/1540286), and outlined by the [Office of Student Rights & Responsibilities](https://students.asu.edu/srr). In addition, 
 
@@ -141,29 +159,29 @@ Required behavior standards are listed in the [Student Code of Conduct and Stud
 
 The Office of Student Rights and Responsibilities accepts [incident reports](https://eoss.asu.edu/dos/srr/filingreport) from students, faculty, staff, or other persons who believe that a student or a student organization may have violated the Student Code of Conduct.
 
-## Prohibition Against Discrimination, Harassment, and Retaliation
+### Prohibition Against Discrimination, Harassment, and Retaliation
 
 Title IX is a federal law that provides that no person be excluded on the basis of sex from participation in, be denied benefits of, or be subjected to discrimination under any education program or activity. Both Title IX and university policy make clear that sexual violence and harassment based on sex is prohibited. An individual who believes they have been subjected to sexual violence or harassed on the basis of sex can seek support, including counseling and academic support, from the university. If you or someone you know has been harassed on the basis of sex or sexually assaulted, you can find information and resources at [http://sexualviolenceprevention.asu.edu/faqs](http://sexualviolenceprevention.asu.edu/faqs) 
  
 As a mandated reporter, I am obligated to report any information I become aware of regarding alleged acts of sexual discrimination, including sexual violence and dating violence. ASU Counseling Services, [https://eoss.asu.edu/counseling](https://eoss.asu.edu/counseling), is available if you wish to discuss any concerns confidentially and privately. ASU online students may access [360 Life Services](https://currentstudent.asuonline.asu.edu/student-services/360-life-services/).   
  
-# Resources
+## Resources
 
 ASU provides a dedicated [Sexual Violence Awareness and Response](https://sexualviolenceprevention.asu.edu/) website with a variety of [resources](https://sexualviolenceprevention.asu.edu/resources) and [educational](https://sexualviolenceprevention.asu.edu/education) programs designed to prevent sexual violence and other acts of sexual misconduct, provide information about what to do when an incident has occurred, and increase awareness of campus and community resources for support and response. Victims of sexual violence, sexual harassment, stalking and relationship violence are encouraged to [seek support](https://sexualviolenceprevention.asu.edu/resources) and [report](https://sexualviolenceprevention.asu.edu/report) the incident. Identify the most appropriate path for your needs using the [Sexual Assault Reporting Options and Resources](https://sexualviolenceprevention.asu.edu/sites/default/files/2023-05/sexual_assault_flowchart.pdf) document.  
  
 For an online tool that is designed to help students who may be experiencing dating violence evaluate their safety, make decisions, and connect to campus and community services, visit: [www.myplanapp.org](http://www.myplanapp.org). myPlan is available for students of all gender identities and sexual orientations. This tool is also for friends who want to support someone they are concerned may be in an abusive relationship.
 
-## Self-Care, Unanticipated Distress and Counseling Services
+### Self-Care, Unanticipated Distress and Counseling Services
 
 Throughout the learning that occurs in this course, students are asked to continually and carefully evaluate their own thoughts and feelings, be mindful of their reactions to the material, and practice self-care as needed. Given the nature of the material presented, the emotional content may be difficult. Students may experience unexpected and/or distressing responses to course content and discussions. Please communicate with your instructor if you need support around distress arising from course content. Please also be aware that ASU offers counseling services for enrolled students. For more information, please go to the ASU Counseling Services website:  [https://eoss.asu.edu/counseling](https://eoss.asu.edu/counseling) or call (480) 965-6146, Monday – Friday 8am – 5pm. After business hours, call the EMPACT ASU-dedicated hotline at (480) 921-1006. [Student Advocacy and Assistance](https://eoss.asu.edu/dos/student-advocacy-and-assistance) in the Dean of Students office guides students in resolving educational, personal and other difficulties by linking students with appropriate university and community resources.
 
-## Get Involved & Explore Opportunities
+### Get Involved & Explore Opportunities
 
 - **Instagram:** @WattsCASA
 - [Watts College Engagement Team Opportunities and Support](https://drive.google.com/file/d/1Y-PaRV67JM06J8CFl3Q_f_Jzh8VD_MsZ/view)
 - [Watts College Student Engagement Events](https://docs.google.com/document/d/16qF3HYeMobaVc5k_K2QoHN1K2ebN3yqm7fM8goBMCds/edit?tab=t.4t285iwpxul4)
 
-# UCENT 150
+## UCENT 150
  
 **Hangout:** Looking for the perfect spot to study, relax, and connect? UCENT 150 office was built with students in mind! Swing by to grab a snack and a cup of coffee/ tea, unwind with friends, or find a cozy corner to hit the books.
 
@@ -186,7 +204,7 @@ Throughout the learning that occurs in this course, students are asked to contin
 * Social media: Instagram - @wattscasa
 * Webpage: [publicservice.asu.edu](https://publicservice.asu.edu/)
 
-# Watts Resources for Essential Needs Office (WREN)
+## Watts Resources for Essential Needs Office (WREN)
 
 The Watts Resources for Essential Needs (WREN) Office assists students with **identifying and navigating basic needs resources within ASU and their communities** and **provides 1:1 application assistance to Arizona's Supplemental Nutrition Assistance Program [(SNAP)](https://des.az.gov/na) and state health insurance [(AHCCCS)](https://www.azahcccs.gov/)**. *We also have a **Donation Closet** with non-perishable food, water, hygiene products, menstrual products, school supplies, dorm supplies, chargers, and other items that students can take at any time! * Additionally, we offer continued case management and advocacy for students when required. We are here to address a wide range of needs, and if we are unable to provide direct assistance, we will ensure students are referred to the appropriate resources.
 
@@ -209,9 +227,9 @@ Please refer to the links below to schedule an appointment and/or learn more!
 * Click here to view the [WREN Outreach PowerPoint](https://docs.google.com/presentation/d/1iL2gyrLBnoKi0X7p0MfSW2VhLP5tBBOE/edit?usp=sharing&ouid=115981139786234976322&rtpof=true&sd=true) for more information about our Office\!  
 * **Social Media:** Instagram @wattscasa // \- @wren\_office
 
-# Student Success
+## Student Success
 
-## University Academic Success Programs
+### University Academic Success Programs
 
 Free tutoring support is available in person and online for most courses and for currently enrolled ASU students.  Services are offered through ASU’s [University Academic Success Programs](https://tutoring.asu.edu/) for currently enrolled students.
 
@@ -224,11 +242,11 @@ Free tutoring support is available in person and online for most courses and for
 
 Visit [https://tutoring.asu.edu](https://tutoring.asu.edu) or call (480) 965-9072 for more information about these services, to view our schedules, or to book an appointment.  
  
-## Writing Center and Support
+### Writing Center and Support
 
 Students are encouraged to access the writing center for free assistance with their papers. ASU Writing Centers offer a dynamic, supportive learning environment for undergraduate and graduate students at any stage of the writing process. Free online writing tutoring is available at https://tutoring.asu.edu/writing-centers. 
 
-# Technical Support
+## Technical Support
 
 Your course may use Canvas to deliver assessments and content. Your Canvas course can be accessed through MyASU at [http://my.asu.edu](http://my.asu.edu/) or the Canvas home page at [https://canvas.asu.edu](https://canvas.asu.edu). 
 
@@ -238,7 +256,7 @@ To monitor the status of campus networks and services, visit the System Health P
 
 To contact the help desk call toll-free at 1-855-278-5080. You can also access technical support at [https://asu.my.site.com/studentSC](https://asu.my.site.com/studentSC).  
 
-# Workload Expectations 
+## Workload Expectations 
 
 Coursework includes all learning activities including reading, watching videos, studying, and completing assignments. [Arizona Board of Regents (ABOR) requires 45 hours of coursework per credit for college-level courses](https://public.powerdms.com/ABOR/documents/1491660), which translates to:
 
@@ -250,11 +268,19 @@ Coursework includes all learning activities including reading, watching videos, 
 
 ASU courses range in length from 6 weeks to 15 weeks. Below is a breakdown of the 135-hour required time commitment for a three-credit course divided among weeks for courses of various lengths. 
 
-||||
-|--- |--- |--- |
-|Course Length|Time on Coursework per Week for a 3-Credit Course|Total Time Requirement for a 3-Credit Course|
-|6  weeks|22.5 hours|135 hours|
-|7.5 weeks|18 hours|135 hours|
-|8  weeks|17 hours|135 hours|
-|15 weeks|9 hours|135 hours|
-
+<table>
+  <caption>Time commitment for a three-credit course</caption>
+  <thead>
+    <tr>
+      <th scope="col">Course Length</th>
+      <th scope="col">Time on Coursework per Week for a 3-Credit Course</th>
+      <th scope="col">Total Time Requirement for a 3-Credit Course</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><th scope="row">6 weeks</th><td>22.5 hours</td><td>135 hours</td></tr>
+    <tr><th scope="row">7.5 weeks</th><td>18 hours</td><td>135 hours</td></tr>
+    <tr><th scope="row">8 weeks</th><td>17 hours</td><td>135 hours</td></tr>
+    <tr><th scope="row">15 weeks</th><td>9 hours</td><td>135 hours</td></tr>
+  </tbody>
+</table>
