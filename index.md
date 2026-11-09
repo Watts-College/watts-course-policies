@@ -157,6 +157,12 @@ For an online tool that is designed to help students who may be experiencing dat
 
 Throughout the learning that occurs in this course, students are asked to continually and carefully evaluate their own thoughts and feelings, be mindful of their reactions to the material, and practice self-care as needed. Given the nature of the material presented, the emotional content may be difficult. Students may experience unexpected and/or distressing responses to course content and discussions. Please communicate with your instructor if you need support around distress arising from course content. Please also be aware that ASU offers counseling services for enrolled students. For more information, please go to the ASU Counseling Services website:  [https://eoss.asu.edu/counseling](https://eoss.asu.edu/counseling) or call (480) 965-6146, Monday – Friday 8am – 5pm. After business hours, call the EMPACT ASU-dedicated hotline at (480) 921-1006. [Student Advocacy and Assistance](https://eoss.asu.edu/dos/student-advocacy-and-assistance) in the Dean of Students office guides students in resolving educational, personal and other difficulties by linking students with appropriate university and community resources.
 
+## Get Involved & Explore Opportunities
+
+- **Instagram:** @WattsCASA
+- [Watts College Engagement Team Opportunities and Support](https://drive.google.com/file/d/1Y-PaRV67JM06J8CFl3Q_f_Jzh8VD_MsZ/view)
+- [Watts College Student Engagement Events](https://docs.google.com/document/d/16qF3HYeMobaVc5k_K2QoHN1K2ebN3yqm7fM8goBMCds/edit?tab=t.4t285iwpxul4)
+
 # UCENT 150
  
 **Hangout:** Looking for the perfect spot to study, relax, and connect? UCENT 150 office was built with students in mind! Swing by to grab a snack and a cup of coffee/ tea, unwind with friends, or find a cozy corner to hit the books.
