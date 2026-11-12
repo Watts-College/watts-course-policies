@@ -18,12 +18,7 @@ index:
     <li><a href="#drop-and-add-dateswithdrawals">Drop, add and withdrawals</a></li>
     <li><a href="#grade-appeals">Grade appeals</a></li>
     <li><a href="#conduct">Conduct</a></li>
-    <li>
-      <a href="#resources">Resources</a>
-      <ul>
-        <li><a href="#ucent-150">UCENT 150</a></li>
-      </ul>
-    </li>
+    <li><a href="#resources">Resources</a></li>
     <li><a href="#watts-resources-for-essential-needs-office-wren">WREN</a></li>
     <li><a href="#student-success">Student success</a></li>
     <li><a href="#technical-support">Technical support</a></li>
