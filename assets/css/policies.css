@@ -85,6 +85,11 @@ main:focus { outline: none; }
   list-style: none;
   padding: 0;
 }
+.page-contents ul ul {
+  display: block;
+  padding-inline-start: 1.25rem;
+  list-style: disc;
+}
 .page-contents li { margin: 0; }
 .page-contents a { display: inline-block; padding-block: .35rem; }
 table {
