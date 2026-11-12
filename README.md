@@ -1,2 +1,2 @@
-# cpp-523-template
-Files for the CPP 523 Program Eval I course
+# Watts Course Policies
+Pages dedicated to Watts Courses Policies that are included in Canvas courses.
