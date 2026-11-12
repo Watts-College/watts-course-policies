@@ -1,11 +1,9 @@
-# OS or Editor folders
 .DS_Store
-node_modules
-
-# Jekyllg
-_site
-.sass-cache
+.bundle/
+vendor/bundle/
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
+__pycache__/
 
-# R files
-.Rhistory

@@ -1,0 +1,51 @@
+name: Validate policies site
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      JEKYLL_ENV: production
+    steps:
+      - name: Checkout proposed site
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      # This comparison is specific to the cleanup PR. Future policy edits
+      # should be allowed to change the rendered page.
+      - name: Checkout pre-cleanup site
+        if: github.event_name == 'pull_request' && github.head_ref == 'cleanup-policy-repository'
+        uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+          path: _baseline
+          persist-credentials: false
+
+      - name: Build pre-cleanup site
+        if: github.event_name == 'pull_request' && github.head_ref == 'cleanup-policy-repository'
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./_baseline
+          destination: ./_baseline_site
+
+      - name: Build proposed site
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Check site links and redirect
+        run: python3 scripts/validate_site.py _site
+
+      - name: Confirm cleanup preserves the rendered policies page
+        if: github.event_name == 'pull_request' && github.head_ref == 'cleanup-policy-repository'
+        run: python3 scripts/validate_site.py _site --baseline _baseline_site

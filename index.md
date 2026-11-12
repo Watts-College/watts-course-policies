@@ -1,10 +1,6 @@
 --- 
 layout: policies
 title: Watts Course Policies
-
-index:
-    image: ASU_WattsPublicService_3_Horiz_RGB_Black_600ppi.png
-    
 --- 
 
 # Course Policies
