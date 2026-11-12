@@ -18,8 +18,12 @@ index:
     <li><a href="#drop-and-add-dateswithdrawals">Drop, add and withdrawals</a></li>
     <li><a href="#grade-appeals">Grade appeals</a></li>
     <li><a href="#conduct">Conduct</a></li>
-    <li><a href="#resources">Resources</a></li>
-    <li><a href="#ucent-150">UCENT 150</a></li>
+    <li>
+      <a href="#resources">Resources</a>
+      <ul>
+        <li><a href="#ucent-150">UCENT 150</a></li>
+      </ul>
+    </li>
     <li><a href="#watts-resources-for-essential-needs-office-wren">WREN</a></li>
     <li><a href="#student-success">Student success</a></li>
     <li><a href="#technical-support">Technical support</a></li>
@@ -181,7 +185,7 @@ Throughout the learning that occurs in this course, students are asked to contin
 - [Watts College Engagement Team Opportunities and Support](https://drive.google.com/file/d/1Y-PaRV67JM06J8CFl3Q_f_Jzh8VD_MsZ/view)
 - [Watts College Student Engagement Events](https://docs.google.com/document/d/16qF3HYeMobaVc5k_K2QoHN1K2ebN3yqm7fM8goBMCds/edit?tab=t.4t285iwpxul4)
 
-## UCENT 150
+### UCENT 150
  
 **Hangout:** Looking for the perfect spot to study, relax, and connect? UCENT 150 office was built with students in mind! Swing by to grab a snack and a cup of coffee/ tea, unwind with friends, or find a cozy corner to hit the books.
 
